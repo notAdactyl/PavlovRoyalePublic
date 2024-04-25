@@ -1,0 +1,18 @@
+{
+    "OfficialServers": [
+        {
+            "IP": "152.160.174.233",
+            "Name": "Server #1",
+            "Verified": true,
+            "Note": "Official server ran by Adactyl",
+            "SavingAllowed": true,
+            "SModerationFile": true,
+            "ModerationFile": "official/Moderation.json",
+            "MPanelAllowed": true
+        }
+    ],
+    "UnofficialServers": [
+
+    ]
+
+}
